@@ -1,49 +1,89 @@
 {
   "filmes": [
     {
-          "id": 1,
-          "titulo": "Homem de Ferro 2",
-          "resumo":"Filme do Homem de Ferro",
-          "atores":"Robert Downey",
-          "capa":"https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg",
-          "duracao":140
-      },
+      "id": 1,
+      "titulo": "O Resgate",
+      "resumo": "Um suspense cheio de ação",
+      "atores": "John Smith",
+      "capa": "https://example.com/capa-filme1.jpg",
+      "duracao": 130
+    },
     {
-          "id": 2,
-          "titulo": "Homem de Ferro 11",
-          "resumo":"Filme do Homem de Ferro",
-          "atores":"Robert Downey",
-          "capa":"https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg",
-          "duracao":140
-      },
-    
+      "id": 2,
+      "titulo": "A Jornada Espacial",
+      "resumo": "Uma aventura no espaço sideral",
+      "atores": "Jane Doe",
+      "capa": "https://example.com/capa-filme2.jpg",
+      "duracao": 118
+    },
     {
-          "id": 3,
-          "titulo": "Homem de Ferro 11",
-          "resumo":"Filme do Homem de Ferro",
-          "atores":"Robert Downey",
-          "capa":"https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg",
-          "duracao":140
-      }
-  ],
-   "atores": [
-      {
-          "id": 1,
-          "nome":"Robert Downey",
-          "avatar": "https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg"      
-      }
-  ],
-  
-   "serties": [
-      {
-          "id": 1,
-          "nome":"Robert Downey",
-          "capa": "https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg"      
-      },
-      {
-          "id": 2,
-          "nome":"Robert Downey",
-          "capa": "https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg"      
-      }
+      "id": 3,
+      "titulo": "O Mistério da Ilha",
+      "resumo": "Uma busca por tesouros perdidos",
+      "atores": "Mike Johnson",
+      "capa": "https://example.com/capa-filme3.jpg",
+      "duracao": 145
+    },
+    {
+      "id": 4,
+      "titulo": "Amor à Primeira Vista",
+      "resumo": "Uma história romântica",
+      "atores": "Emily Smith",
+      "capa": "https://example.com/capa-filme4.jpg",
+      "duracao": 112
+    },
+    {
+      "id": 5,
+      "titulo": "A Aventura Perdida",
+      "resumo": "Uma expedição em busca de um tesouro perdido",
+      "atores": "Tom Anderson",
+      "capa": "https://example.com/capa-filme5.jpg",
+      "duracao": 140
+    },
+    {
+      "id": 6,
+      "titulo": "O Segredo das Sombras",
+      "resumo": "Um mistério sombrio",
+      "atores": "Samantha Brown",
+      "capa": "https://example.com/capa-filme6.jpg",
+      "duracao": 125
+    },
+    {
+      "id": 7,
+      "titulo": "A Corrida Mortal",
+      "resumo": "Uma corrida pela sobrevivência",
+      "atores": "David Clark",
+      "capa": "https://example.com/capa-filme7.jpg",
+      "duracao": 132
+    },
+    {
+      "id": 8,
+      "titulo": "O Segredo do Passado",
+      "resumo": "Um suspense envolvente",
+      "atores": "Alice Johnson",
+      "capa": "https://example.com/capa-filme8.jpg",
+      "duracao": 128
+    },
+    {
+      "id": 9,
+      "titulo": "A Jornada Pela Selva",
+      "resumo": "Uma aventura na selva",
+      "atores": "Paul Roberts",
+      "capa": "https://example.com/capa-filme9.jpg",
+      "duracao": 137
+    },
+    {
+      "id": 10,
+      "titulo": "O Enigma do Tempo",
+      "resumo": "Uma viagem no tempo",
+      "atores": "Linda Smith",
+      "capa": "https://example.com/capa-filme10.jpg",
+      "duracao": 120
+    }
   ]
+}
+
+
+    
+ 
 }
