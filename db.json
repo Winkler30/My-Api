@@ -1,84 +1,44 @@
 {
   "filmes": [
     {
-      "id": 1,
-      "titulo": "O Resgate",
-      "resumo": "Um suspense cheio de ação",
-      "atores": "John Smith",
-      "capa": "https://example.com/capa-filme1.jpg",
-      "duracao": 130
-    },
+          "id": 1,
+          "titulo": "O Resgate",
+          "resumo":"Um suspense cheio de ação",
+          "atores":"John Smith",
+          "capa":"https://seriemaniacos.tv/wp-content/uploads/2020/04/Resgate-capa.jpg",
+          "duracao":250
+      },
     {
-      "id": 2,
-      "titulo": "A Jornada Espacial",
-      "resumo": "Uma aventura no espaço sideral",
-      "atores": "Jane Doe",
-      "capa": "https://example.com/capa-filme2.jpg",
-      "duracao": 118
-    },
+          "id": 2,
+          "titulo": "A Jornada Espacial",
+          "resumo":"Uma aventura no espaço sideral",
+          "atores":"Jane Doe",
+          "capa":"https://cinepop.com.br/wp-content/uploads/2020/03/A-Jornada.jpg",
+          "duracao":270
+      },
     {
-      "id": 3,
-      "titulo": "O Mistério da Ilha",
-      "resumo": "Uma busca por tesouros perdidos",
-      "atores": "Mike Johnson",
-      "capa": "https://example.com/capa-filme3.jpg",
-      "duracao": 145
-    },
+          "id": 3,
+          "titulo": "O Mistério da Ilha",
+          "resumo":"Uma busca por tesouros perdidos",
+          "atores":"Mike Johnson",
+          "capa":"https://br.web.img3.acsta.net/pictures/19/09/23/08/37/2376090.jpg",
+          "duracao":100
+      },
     {
-      "id": 4,
-      "titulo": "Amor à Primeira Vista",
-      "resumo": "Uma história romântica",
-      "atores": "Emily Smith",
-      "capa": "https://example.com/capa-filme4.jpg",
-      "duracao": 112
-    },
-    {
-      "id": 5,
-      "titulo": "A Aventura Perdida",
-      "resumo": "Uma expedição em busca de um tesouro perdido",
-      "atores": "Tom Anderson",
-      "capa": "https://example.com/capa-filme5.jpg",
-      "duracao": 140
-    },
-    {
-      "id": 6,
-      "titulo": "O Segredo das Sombras",
-      "resumo": "Um mistério sombrio",
-      "atores": "Samantha Brown",
-      "capa": "https://example.com/capa-filme6.jpg",
-      "duracao": 125
-    },
-    {
-      "id": 7,
-      "titulo": "A Corrida Mortal",
-      "resumo": "Uma corrida pela sobrevivência",
-      "atores": "David Clark",
-      "capa": "https://example.com/capa-filme7.jpg",
-      "duracao": 132
-    },
-    {
-      "id": 8,
-      "titulo": "O Segredo do Passado",
-      "resumo": "Um suspense envolvente",
-      "atores": "Alice Johnson",
-      "capa": "https://example.com/capa-filme8.jpg",
-      "duracao": 128
-    },
-    {
-      "id": 9,
-      "titulo": "A Jornada Pela Selva",
-      "resumo": "Uma aventura na selva",
-      "atores": "Paul Roberts",
-      "capa": "https://example.com/capa-filme9.jpg",
-      "duracao": 137
-    },
-    {
-      "id": 10,
-      "titulo": "O Enigma do Tempo",
-      "resumo": "Uma viagem no tempo",
-      "atores": "Linda Smith",
-      "capa": "https://example.com/capa-filme10.jpg",
-      "duracao": 120
+          "id": 4,
+          "titulo": "Amor à Primeira Vista",
+          "resumo":"Uma história romântica",
+          "atores":"Emily Smith",
+          "capa":"https://s2-techtudo.glbimg.com/m-IEXlEogiaO3602fdCabrWcCKQ=/0x0:1280x720/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/j/h/S8s90fTvGBkRcXHc3mYw/love1.jpg",
+          "duracao":210
     }
+   
+   ],
+   "atores": [
+      {
+          "id": 1,
+          "nome":"Emily Smith, Mike Johnson, Jane Doe, John Smith,",
+          "avatar": "https://img.ibxk.com.br/2022/03/09/09103027868119.jpg?ims=328x"      
+      }
   ]
 }
